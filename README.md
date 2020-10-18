@@ -61,6 +61,11 @@ Or in debug mode:
 ```
 DEBUG=* npx eleventy
 ```
+Or
+```
+npm run serve
+```
+
 
 ### Implementation Notes
 
